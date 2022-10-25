@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/kb-analysis/static/js/main.533e04a8.js",
+    "main.js": "/kb-analysis/static/js/main.d06d486b.js",
     "index.html": "/kb-analysis/index.html",
-    "main.533e04a8.js.map": "/kb-analysis/static/js/main.533e04a8.js.map"
+    "main.d06d486b.js.map": "/kb-analysis/static/js/main.d06d486b.js.map"
   },
   "entrypoints": [
-    "static/js/main.533e04a8.js"
+    "static/js/main.d06d486b.js"
   ]
 }
